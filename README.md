@@ -3,3 +3,4 @@ AI sieć neuronowa pracująca w chmurze do aktualizacji systemów operacyjnych i
 Nalerzy dobudować panel sterowania dla administratora chmury.  
 Puplpit sterowania można stworzyć przy użyciu Cortany, Alexy lub innego Voice asytenta. 
 Można też wykorzystać sieć do generowania aplikacji czy stron WWW na dowolne urządzenia. 
+Komputer automatycznie dostosowuje się do potrzeb zasobów i to co chce ta osoba w komputerze.  
